@@ -11,7 +11,7 @@ import Foundation
 var u: Fraction
 
 // Initialise the object
-u = Fraction(num: 2,den: 3)
+u = Fraction(num: 11,den: 3)
 
 // Show the state of the object's internal variables
 print("u=\(u.description)")
